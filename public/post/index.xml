@@ -1,51 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>David&#39;s Guitar Info</title>
-    <link>https://black-tree-0acbb791e.1.azurestaticapps.net/</link>
-    <description>Recent content on David&#39;s Guitar Info</description>
+    <title>Posts on David&#39;s Guitar Info</title>
+    <link>https://black-tree-0acbb791e.1.azurestaticapps.net/post/</link>
+    <description>Recent content in Posts on David&#39;s Guitar Info</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://black-tree-0acbb791e.1.azurestaticapps.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://black-tree-0acbb791e.1.azurestaticapps.net/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Arpeggio Patterns - Major</title>
-      <link>https://black-tree-0acbb791e.1.azurestaticapps.net/project/project1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://black-tree-0acbb791e.1.azurestaticapps.net/project/project1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project 2</title>
-      <link>https://black-tree-0acbb791e.1.azurestaticapps.net/project/project2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://black-tree-0acbb791e.1.azurestaticapps.net/project/project2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project 3</title>
-      <link>https://black-tree-0acbb791e.1.azurestaticapps.net/project/project3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://black-tree-0acbb791e.1.azurestaticapps.net/project/project3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project 4</title>
-      <link>https://black-tree-0acbb791e.1.azurestaticapps.net/project/project4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://black-tree-0acbb791e.1.azurestaticapps.net/project/project4/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Creating a New Theme</title>
@@ -90,15 +54,6 @@ Follow the following steps:
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://black-tree-0acbb791e.1.azurestaticapps.net/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://black-tree-0acbb791e.1.azurestaticapps.net/about/</guid>
-      <description>I&amp;rsquo;ve been on a multi-year journey to learn a little about the guitar and wanted to capture it here!</description>
     </item>
     
   </channel>

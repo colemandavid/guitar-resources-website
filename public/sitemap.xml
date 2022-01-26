@@ -3,15 +3,134 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/categories/</loc>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/project/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/project/project2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/project/project3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/project/project4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/tags/go/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/tags/golang/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/tags/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/post/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/tags/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/tags/themes/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/post/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/post/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/tags/template/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/tags/jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/post/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/tags/static-site-generator/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/tags/bootstrap/</loc>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/tags/css/</loc>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/tags/highlight-js/</loc>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/tags/html/</loc>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/tags/js/</loc>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/project/</loc>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/tags/responsive/</loc>
+  </url>
+  
+  <url>
+    <loc>https://black-tree-0acbb791e.1.azurestaticapps.net/tags/syntax-highlighting/</loc>
   </url>
   
 </urlset>
